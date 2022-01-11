@@ -6,6 +6,8 @@ Kumpulan geojson dari daerah-daerah di Indonesia. Dikarenakan dulu saya mencarin
 Permintaan pull diperbolehkan. Tambahkan daerah-daerah kalian. Pastikan divalidasi dulu. Terimakasih :)
 
 ## Tools
+[QGIS](https://www.qgis.org/en/site/)
+
 [GeoJson Validator](https://www.itb.ec.europa.eu/json/geojson)
 
 [Open GeoJson Online](https://geojson.io/)
