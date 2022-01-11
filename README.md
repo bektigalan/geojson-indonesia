@@ -9,3 +9,5 @@ Permintaan pull diperbolehkan. Tambahkan daerah-daerah kalian. Pastikan divalida
 [GeoJson Validator](https://www.itb.ec.europa.eu/json/geojson)
 
 [Open GeoJson Online](https://geojson.io/)
+
+[MapShaper](https://github.com/mbloch/mapshaper)
